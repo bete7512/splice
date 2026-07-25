@@ -1,0 +1,14 @@
+bin/
+dist/
+*.test
+*.out
+docs/evidence/*.log
+.dev/
+DESIGN.md
+PLAN.md
+SPLICE.md
+CLAUDE.md
+IMPLEMENTATION.md
+plans
+docs
+.claude
